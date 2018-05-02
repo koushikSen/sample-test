@@ -1,0 +1,12 @@
+{
+    "name": "koushik/sample",
+    "description": "This is a sample vendor file for just to check tutorial",
+    "authors": [
+        {
+            "name": "koushik sen",
+            "email": "imkoushiksen@hotmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}    
+}
